@@ -17,6 +17,7 @@ public class Autor {
     private Integer id;
     private String nombre;
     private String apellido;
+    private int dni;
     private boolean alta;
 
     public Autor() {
